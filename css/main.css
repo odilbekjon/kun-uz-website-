@@ -45,7 +45,7 @@ body {
     border-radius: 20px;
 }
 
-<<<<<<< HEAD
+
 
 
 /* Regions start */
@@ -217,94 +217,7 @@ body {
    margin-top: 7px;
 }
 /* hero end */
-=======
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-body {
-    font-family: 'Montserrat', sans-serif;
-    background: #fff;
-    color: #000;
-}
-
-ul {
-    list-style: none;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-.container {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
-.header {
-    display: flex;
-    align-items: center;
-    gap: 40px;
-    padding: 20px 0;
-}
-
-.header__list {
-    display: flex;
-    gap: 28px;
-    flex: 1;
-}
-
-.header__item-link,
-.header__item_link,
-.header__item a {
-    font-size: 14px;
-    font-weight: 600;
-    color: #222;
-    transition: color 0.2s;
-}
-
-.header__item a:hover {
-    color: #0d2f7a;
-}
-
-.header__select {
-    border: none;
-    background: transparent;
-    font-family: inherit;
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
-    outline: none;
-}
-
-
-.regions {
-    border-top: 1px solid #eee;
-    border-bottom: 1px solid #eee;
-    padding: 12px 0;
-    margin-bottom: 20px;
-}
-
-.regions__list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px 24px;
-}
-
-.regions__item a,
-.regions__link {
-    font-size: 13px;
-    color: #444;
-    transition: color 0.2s;
-}
-
-.regions__link:hover {
-    color: #0d2f7a;
-}
 
 
 .yangiliklar {
@@ -499,4 +412,4 @@ line-height: 100%;
 letter-spacing: 0%;
 opacity: 1;
 }
->>>>>>> 72f9182c56191738b28ad94d854ea163c4545611
+
