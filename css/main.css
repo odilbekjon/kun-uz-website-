@@ -239,3 +239,85 @@ a {
         grid-template-columns: 1fr;
     }
 }
+.maqolalar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.maqola__btn {
+    text-decoration: none;
+    color: #17206A;
+    text-transform: uppercase;
+
+}
+
+.royxat__main__text {
+    width: 432px;
+    height: 66px;
+    opacity: 1;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 16px;
+
+    line-height: 22px;
+    letter-spacing: 0%;
+
+}
+
+.royxat__text {
+    width: 432px;
+    height: 138px;
+    opacity: 1;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: 0%;
+
+}
+
+.maqolalar__royxatbox {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 15px;
+    width: 1340px;
+}
+.biznes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.biznes__section{
+    background: #F0F0F0;
+    padding:30px 0;
+}
+.wrapper__biznes{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.box__biznes{
+    
+    background-color: #ffffff;
+    width: 300px;
+height: 333px;
+top: 4370px;
+left: 330px;
+opacity: 1;
+
+}
+.biznes__text{
+    width: 260px;
+height: 40px;
+top: 187px;
+left: 20px;
+font-family: Montserrat;
+font-weight: 700;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+opacity: 1;
+}
