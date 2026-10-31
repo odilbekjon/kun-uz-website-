@@ -411,8 +411,9 @@ font-size: 16px;
 line-height: 100%;
 letter-spacing: 0%;
 opacity: 1;
+margin-left: 20px;
 }
-<<<<<<< HEAD
+
 .interviyu__section{
     background-color: #F0F0F0;
     padding-bottom: 20px;
@@ -497,6 +498,3 @@ opacity: 1;
 .float-img-right{
     margin-bottom: 10px;
 }
-=======
-
->>>>>>> 9fc0e94b2aa4c97ecb785a66b5babfd72821ef7f
